@@ -1,0 +1,125 @@
+@import 'reset';
+@import 'variables';
+
+body {
+    margin: 0;
+}
+
+// * {
+//     // outline: 1px dashed fuchsia;
+// }
+
+.header-bar {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 4rem 0;
+    color: $col-primary;
+    position: fixed;
+    background-color: white;
+    top: 0;
+    z-index: 999;
+}
+
+.content {
+    display: flex;
+    margin: 12rem 0 8rem;
+}
+
+.timeline-box {
+    display: flex;
+    flex-direction: column;
+    gap: 48px;
+    position: relative;
+    overflow: hidden;
+    width: 50%;
+    max-width: 1920px;
+}
+
+.timeline-line {
+    background-color: $col-primary;
+    border-radius: 2px;
+    width: 4px;
+    left: calc(50% - 2px);
+    top: 16px;
+    bottom: 16px;
+    position: absolute;
+    z-index: -1;
+}
+
+.timeline-entry {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+
+    &.active .timeline-marker {
+        color: $col-primary;
+
+        h3 {
+            font-weight: 600;
+        }
+
+        .timeline-dot {
+            background-color: $col-primary;
+            transform: scale(1.5);
+        }
+    }
+
+    &.active {
+        .timeline-description {
+            display: block;
+        }
+    }
+
+    &:nth-of-type(odd) {
+        margin-left: calc(50% - 8px);
+        text-align: left;
+
+        .timeline-description {
+            margin-left: 2rem;
+        }
+    }
+    &:nth-of-type(even) {
+        margin-left: 8px;
+        text-align: right;
+        justify-content: flex-end;
+
+        .timeline-marker {
+            flex-direction: row-reverse;
+        }
+
+        .timeline-description {
+            margin-right: 2rem;
+        }
+    }
+
+    .timeline-marker {
+        display: flex;
+        align-items: center;
+        gap: 16px;
+
+        h3 {
+            font-weight: 400;
+        }
+    }
+
+    .timeline-dot {
+        width: 16px;
+        height: 16px;
+        border-radius: 100%;
+        background-color: white;
+        border: 2px solid $col-primary;
+        transition-property: background-color, transform;
+    }
+}
+
+.desc {
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    margin-right: 5rem;
+    transform: translateY(-50%);
+    font-size: 2em;
+    line-height: 1.5em;
+}

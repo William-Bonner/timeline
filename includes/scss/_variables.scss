@@ -1,0 +1,29 @@
+:root {
+    font-size: 16px;
+}
+
+body {
+    font-family: "Segoe UI Vairable Text", sans-serif, system-ui, ui-rounded;
+
+    &, * {
+        transition-duration: 0.15s;
+        transition-property: none;
+    }
+}
+@mixin header-text($s: 1) {
+    font-family: "Segoe UI Vairable Display", sans-serif, system-ui, ui-rounded;
+    font-weight: 600;
+    font-size: #{$s}rem;
+}
+
+h1 {
+    @include header-text(4);
+}
+h2 {
+    @include header-text(3);
+}
+h3 {
+    @include header-text(2);
+}
+
+$col-primary: #3C78DF;
