@@ -1,142 +1,78 @@
 [
     {
-        "year": "1640",
-        "desc": "The term “computer” was originally used in the 1640’s as a job title for people (typically women) who did mathematic calculations. Mechanical computers were not invented until much later in the 1880’s."
+        "year": "Creation",
+        "desc": "In the begining God created everything, we call this Creation.  (Event)"
     },
     {
-        "year": "1801",
-        "desc": "In France, Joseph Marie Jacquard invents a loom that uses punched wooden cards to automatically weave fabric designs. Early computers would use similar punch cards."
+        "year": "750 BC",
+        "desc": "The Greek empire valued perfection killed or left the less than perfect individuals to the elements.  (Event)"
     },
     {
-        "year": "1822",
-        "desc": "English mathematician Charles Babbage conceives of a steam-driven calculating machine that would be able to compute tables of numbers. The project, funded by the English government, is a failure. More than a century later, however, the world's first computer was actually built."
+        "year": "146 BC",
+        "desc": "The fall of Greece to the Romans and the rise of the Roman empire. the Romans acted much like the Greeks in their policy towards the disabled.  (Event)"
     },
     {
-        "year": "1890",
-        "desc": "Herman Hollerith designs a punch card system to calculate the 1880 census, accomplishing the task in just three years and saving the government $5 million. He establishes a company that would ultimately become IBM."
+        "year": "0 BC",
+        "desc": "Jesus' birth, Jesus showed compassion to the disabled and sinful healing them of their eniquities.  (Individual)"
     },
     {
-        "year": "1936",
-        "desc": "Alan Turing presents the notion of a universal machine, later called the Turing machine, capable of computing anything that is computable. The central concept of the modern computer was based on his ideas."
+        "year": "30",
+        "desc": "Jesus gathered the Desiples to himself and started to teach them. The Desiples helped show compassion to those in need.  (Individual)"
     },
     {
-        "year": "1937",
-        "desc": "J.V. Atanasoff, a professor of physics and mathematics at Iowa State University, attempts to build the first computer without gears, cams, belts or shafts."
+        "year": "1474",
+        "desc": "Ponce de Leon, a priest who taught Spanish nobility's deaf children so they could inherit.  (Individual)"
     },
     {
-        "year": "1941",
-        "desc": "Atanasoff and his graduate student, Clifford Berry, design a computer that can solve 29 equations simultaneously. This marks the first time a computer is able to store information on its main memory."
+        "year": "1454",
+        "desc": "Gutenberg movable printing press made it easier to make books for educating the deaf.  (Institution)"
     },
     {
-        "year": "1943",
-        "desc": "Two University of Pennsylvania professors, John Mauchly and J. Presper Eckert, build the Electronic Numerical Integrator and Calculator (ENIAC). Considered the grandfather of digital computers, it fills a 20-foot by 40-foot room and has 18,000 vacuum tubes."
+        "year": "1535",
+        "desc": "The first English Bible printed.  (Document)"
     },
     {
-        "year": "1946",
-        "desc": "Mauchly and Presper leave the University of Pennsylvania and receive funding from the Census Bureau to build the UNIVAC, the first commercial computer for business and government applications."
+        "year": "1712",
+        "desc": "Abbe de l'Epee, The Father of the deaf, French priest who founded the first free school for the deaf.  (Individual)"
     },
     {
-        "year": "1947",
-        "desc": "William Shockley, John Bardeen and Walter Brattain of Bell Laboratories invent the transistor. They discovered how to make an electric switch with solid materials and no need for a vacuum."
+        "year": "1727",
+        "desc": "Samuel Heinicke was a German who established the first oral school for the deaf.  (Individual)"
     },
     {
-        "year": "1953",
-        "desc": "Grace Hopper develops the first computer language, which eventually becomes known as COBOL. Thomas Johnson Watson Jr., son of IBM CEO Thomas Johnson Watson Sr., conceives the IBM 701 EDPM to help the United Nations keep tabs on Korea during the war."
+        "year": "1742",
+        "desc": "Sicard, de l'Epee's student who took over running the school.  (Individual)"
     },
     {
-        "year": "1954",
-        "desc": "The FORTRAN programming language, an acronym for FORmula TRANslation, is developed by a team of programmers at IBM led by John Backus."
+        "year": "1772",
+        "desc": "Jean Massieu, deaf and taught Laurent Clerc.  (Individual)"
     },
     {
-        "year": "1958",
-        "desc": "Jack Kilby and Robert Noyce unveil the integrated circuit, known as the computer chip. Kilby was awarded the Nobel Prize in Physics in 2000 for his work."
+        "year": "1785",
+        "desc": "Laurent Clerc, a deaf Frenchman who studied under Jean Massieu, met Gallaudet and came to America to help establish the first deaf school in America.  (Individual)"
+    },
+    {
+        "year": "1787",
+        "desc": "Rev. Thomas Gallaudet, Congregational minister who traveled to England and France to learn how to teach Deaf. Helped establish the first deaf school in America.  (Individual)"
+    },
+    {
+        "year": "1837",
+        "desc": "Edward Miner Gallaudet, Thomas's son. continued the work of his father and the president of Gallaudet College.  (Individual)"
+    },
+    {
+        "year": "1880",
+        "desc": "The Second International Congress on Education of the Deaf was held in Italy and was a large meeting of educators of the deaf. They discused the best ways of education oral or sign. The meeting was stacked in favor of the oralists and caused the number of deaf toeachers in following years to shrink.  (Event)"
     },
     {
         "year": "1964",
-        "desc": "Douglas Engelbart shows a prototype of the modern computer, with a mouse and a graphical user interface (GUI). This marks the evolution of the computer from a specialized machine for scientists and mathematicians to technology that is more accessible to the general public."
-    },
-    {
-        "year": "1969",
-        "desc": "A group of developers at Bell Labs produce UNIX, an operating system that addressed compatibility issues. Written in the C programming language, UNIX was portable across multiple platforms and became the operating system of choice among mainframes at large companies and government entities. Due to the slow nature of the system, it never quite gained traction among home PC users."
-    },
-    {
-        "year": "1971",
-        "desc": "Alan Shugart leads a team of IBM engineers who invent the \"floppy disk,\" allowing data to be shared among computers."
-    },
-    {
-        "year": "1973",
-        "desc": "Robert Metcalfe, a member of the research staff for Xerox, develops Ethernet for connecting multiple computers and other hardware."
+        "desc": "Registry of Interpreters for the Deaf established, before this anyone could interpret for any situation regardless of skill level.  (Institution)"
     },
     {
         "year": "1975",
-        "desc": "The January issue of Popular Electronics magazine features the Altair 8080, described as the \"world's first minicomputer kit to rival commercial models.\" Two \"computer geeks,\" Paul Allen and Bill Gates, offer to write software for the Altair, using the new BASIC language. On April 4, after the success of this first endeavor, the two childhood friends form their own software company, Microsoft. "
+        "desc": "PL 94-142- Mainstreaming law passed to have handicapped children taught in the least restrictive inviroment possible.  (Event)"
     },
     {
-        "year": "1976",
-        "desc": "Steve Jobs and Steve Wozniak start Apple Computers on April Fool's Day and roll out the Apple I, the first computer with a single-circuit board."
-    },
-    {
-        "year": "1977",
-        "desc": "Radio Shack's initial production run of the TRS-80 was just 3,000. It sold like crazy. For the first time, non-geeks could write programs and make a computer do what they wished."
-    },
-    {
-        "year": "1977",
-        "desc": "Jobs and Wozniak incorporate Apple and show the Apple II at the first West Coast Computer Faire. It offers color graphics and incorporates an audio cassette drive for storage."
-    },
-    {
-        "year": "1981",
-        "desc": "The first IBM personal computer, code-named \"Acorn,\" is introduced. It uses Microsoft's MS-DOS operating system. It has an Intel chip, two floppy disks and an optional color monitor. Sears & Roebuck and Computerland sell the machines, marking the first time a computer is available through outside distributors. It also popularizes the term PC."
-    },
-    {
-        "year": "1983",
-        "desc": "Apple's Lisa is the first personal computer with a GUI. It also features a drop-down menu and icons. It flops but eventually evolves into the Macintosh. The Gavilan SC is the first portable computer with the familiar flip form factor and the first to be marketed as a \"laptop.\""
-    },
-    {
-        "year": "1985",
-        "desc": "Microsoft announces Windows, according to Encyclopedia Britannica. This was the company's response to Apple's GUI. Commodore unveils the Amiga 1000, which features advanced audio and video capabilities."
-    },
-    {
-        "year": "1985",
-        "desc": "The first dot-com domain name is registered on March 15, years before the World Wide Web would mark the formal beginning of Internet history."
-    },
-    {
-        "year": "1990",
-        "desc": "Tim Berners-Lee, a researcher at CERN, the high-energy physics laboratory in Geneva, develops HyperText Markup Language (HTML), giving rise to the World Wide Web."
-    },
-    {
-        "year": "1994",
-        "desc": "PCs become gaming machines as \"Command & Conquer,\" \"Alone in the Dark 2,\" \"Theme Park,\" \"Magic Carpet,\" \"Descent\" and \"Little Big Adventure\" are among the games to hit the market."
-    },
-    {
-        "year": "1996",
-        "desc": "Sergey Brin and Larry Page develop the Google search engine at Stanford University."
-    },
-    {
-        "year": "1997",
-        "desc": "Microsoft invests $150 million in Apple, which was struggling at the time, ending Apple's court case against Microsoft in which it alleged that Microsoft copied the \"look and feel\" of its operating system."
-    },
-    {
-        "year": "1999",
-        "desc": "The term Wi-Fi becomes part of the computing language and users begin connecting to the Internet without wires."
-    },
-    {
-        "year": "2004",
-        "desc": "Mozilla's Firefox 1.0 challenges Microsoft's Internet Explorer, the dominant Web browser."
-    },
-    {
-        "year": "2005",
-        "desc": "Google acquires Android, a Linux-based mobile phone operating system."
-    },
-    {
-        "year": "2007",
-        "desc": "The iPhone brings many computer functions to the smartphone."
-    },
-    {
-        "year": "2010",
-        "desc": "Apple unveils the iPad, changing the way consumers view media and jumpstarting the dormant tablet computer segment."
-    },
-    {
-        "year": "2011",
-        "desc": "Google releases the Chromebook, a laptop that runs the Google Chrome OS."
+        "year": "2020",
+        "desc": "Bible translated to ASL. The ASLV.  (Document)"
     }
 ]
